@@ -1,4 +1,4 @@
-June 19, 2025 - Forked from mwaylabs(https://github.com/mwaylabs/flutter-apns)
+June 19, 2024 - Forked from mwaylabs(https://github.com/mwaylabs/flutter-apns)
 ## Updates
 1. Updated all dependencies including firebase_core and firebase_messaging to latest versions.
 2. Fixed deprecated imperative apply of Flutter's Gradle plugins for example app.
